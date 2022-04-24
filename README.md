@@ -13,18 +13,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+&#10148; [unicode table](https://unicode-table.com/en/27A4/) (2022) Lorem Ipsum is simply dummy text of the printing and typesetting industry.
 https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/dev
 -->
 
 - 🔭 I’m currently working on Esync NodeJs Solution
 - 🌱 I’m currently skilling up ExpressJs
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rashed-qazizada-1b64b68a/)
+- &#128073; [My projects](https://rqkohistani.github.io/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My guilty pleasure is taking fresh air🤔
 
 ### Languages
-
-![linkedin](https://user-images.githubusercontent.com/47086798/164976096-bea6930c-799d-4e44-a208-d8290e8c6c12.svg)
 
 ![java](https://user-images.githubusercontent.com/47086798/164975916-ebd0b705-c836-4eb6-b824-e72d21b8e3fc.svg)
 ![js](https://user-images.githubusercontent.com/47086798/164975924-7c083ba7-fed0-47bf-820f-549355bcf57d.svg)
