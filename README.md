@@ -18,7 +18,7 @@ https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/dev
 
 - 🔭 I’m currently working on Esync NodeJs Solution
 - 🌱 I’m currently skilling up ExpressJs
-- 📫 How to reach me: [![linkedin](https://user-images.githubusercontent.com/47086798/164976096-bea6930c-799d-4e44-a208-d8290e8c6c12.svg)](https://www.linkedin.com/in/rashed-qazizada-1b64b68a/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rashed-qazizada-1b64b68a/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My guilty pleasure is taking fresh air🤔
 
