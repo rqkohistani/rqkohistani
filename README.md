@@ -36,3 +36,4 @@ https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/dev
 ![visualstudio_code](https://user-images.githubusercontent.com/47086798/164975945-2c7d2a62-452c-43f3-881a-391511c2901d.svg)
 ![npm](https://user-images.githubusercontent.com/47086798/165321337-653ed928-3eb1-4bfb-9539-654d361fb689.svg)
 ![office_365](https://user-images.githubusercontent.com/47086798/165321339-e8e7c347-6632-4f78-82d0-2498624bf30c.svg)
+<!-- https://github.com/MikeCodesDotNET/ColoredBadges -->
