@@ -21,8 +21,6 @@ https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/dev
 - 🌱 I’m currently skilling up ExpressJs
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rashed-qazizada-1b64b68a/)
 - &#128073; My[ projects](https://rqkohistani.github.io/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: My guilty pleasure is taking fresh air🤔
 
 ### Relevant Languages
 
