@@ -20,6 +20,7 @@ https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/dev
 - 🔭 I’m currently working on Esync NodeJs Solution and World Baton Twirling Federation (WBTF) (Drill)
 - 🌱 I’m currently skilling up ExpressJs
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rashed-qazizada-1b64b68a/)
+- ⚡ Fun fact: My profile is not up to date.
 - &#128073; My[ projects](https://rqkohistani.github.io/)
 
 ### Relevant Languages
