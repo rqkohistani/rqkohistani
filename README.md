@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello and Welcome 👋, I'm Rashed Qazizada
 
 <!--
 **rqkohistani/rqkohistani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,10 +17,12 @@ Here are some ideas to get you started:
 https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/dev
 -->
 
-- 🔭 I’m currently working on Esync NodeJs Solution and World Baton Twirling Federation (WBTF) (Drill)
-- 🌱 I’m currently skilling up ExpressJs
+- 🔭 I’m currently working on World Baton Twirling Federation (WBTF) (Drill)
+- 👨🏽‍🎓 I'm constantly learning new skills and *striving for progress*
+- 🏆 Goal: Be better than yesterday
+- ⚡ Moto: *Maintain your focus on progress rather than perfection.*
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rashed-qazizada-1b64b68a/)
-- ⚡ Fun fact: My profile is not up to date.
+- ⚡ Fun fact: My profile is not up to date. 🤔
 - &#128073; My[ projects](https://rqkohistani.github.io/)
 
 ### Relevant Languages
