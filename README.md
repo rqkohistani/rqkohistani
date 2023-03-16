@@ -22,7 +22,7 @@ https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/dev
 - 🏆 Goal: Be better than yesterday
 - ⚡ Moto: *Maintain your focus on progress rather than perfection.*
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rashed-qazizada-1b64b68a/)
-- ⚡ Fun fact: My profile is not up to date. 🤔
+- ⚡ Fun fact: In my free time, you can often find me at the gym, where I enjoy weightlifting and pushing myself to achieve new fitness goals. 🤔
 - &#128073; My[ projects](https://rqkohistani.github.io/)
 
 ### Relevant Languages
