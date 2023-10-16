@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/dev
 -->
 
-- 🔭 I’m currently working on World Baton Twirling Federation (WBTF) (Drill)
+- 🔭 I’m currently working on ASP.NET at Go-Ahead Nordic and World Baton Twirling Federation (WBTF) (Drill)
 - 👨🏽‍🎓 I'm constantly learning new skills and *striving for progress*
 - 🏆 Goal: Be better than yesterday
 - ⚡ Moto: *Maintain your focus on progress rather than perfection.*
@@ -27,12 +27,15 @@ https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/dev
 
 ### Relevant Languages
 
+![ASP.NET](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/csharp_dotnet.svg)
 ![java](https://user-images.githubusercontent.com/47086798/164975916-ebd0b705-c836-4eb6-b824-e72d21b8e3fc.svg)
 ![js](https://user-images.githubusercontent.com/47086798/164975924-7c083ba7-fed0-47bf-820f-549355bcf57d.svg)
 ![html](https://user-images.githubusercontent.com/47086798/164975928-14fbe9cf-d19e-482d-8e5d-a99237810be5.svg)
 ![css3](https://user-images.githubusercontent.com/47086798/164975931-52c8badf-53c7-447f-81f4-bc19743ac180.svg)
+![Bootstrap 5 ](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/bootstrap.svg)
 
 ### Working with
+![ASP.NET](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/csharp_dotnet.svg)
 ![nodejs](https://user-images.githubusercontent.com/47086798/164975939-e4f6fdc6-9c0e-4ddb-a588-3ea279d52297.svg)
 <!-- ![visualstudio_code](https://user-images.githubusercontent.com/47086798/164975945-2c7d2a62-452c-43f3-881a-391511c2901d.svg)
 ![npm](https://user-images.githubusercontent.com/47086798/165321337-653ed928-3eb1-4bfb-9539-654d361fb689.svg)
