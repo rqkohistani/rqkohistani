@@ -25,7 +25,7 @@ https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/dev
 - ⚡ Fun fact: I love hitting the gym to sweat out stress and stay in shape. 🤔
 - &#128073; My[ projects](https://rqkohistani.github.io/)
 
-### Relevant Languages
+### Relevant Languages & Frameworks
 
 ![ASP.NET](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/csharp_dotnet.svg)
 ![java](https://user-images.githubusercontent.com/47086798/164975916-ebd0b705-c836-4eb6-b824-e72d21b8e3fc.svg)
