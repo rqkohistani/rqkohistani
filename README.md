@@ -26,7 +26,7 @@ old infos:
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rashed-qazizada-1b64b68a/)
 - ⚡ Fun fact: I love hitting the gym to sweat out stress and stay in shape. 🤔
 <!-- - &#128073; My[ projects](https://rqkohistani.github.io/) -->
-- &#128073; My [Repositories](https://github.com/rqkohistani?tab=repositories)
+- &#128073; Look up the [Repositories](https://github.com/rqkohistani?tab=repositories)
 
 <!-- ### Relevant Languages & Frameworks
 
