@@ -1,4 +1,4 @@
-### Hello and Welcome 👋, I'm Rashed Qazizada
+# Hello and Welcome 👋, I'm Rashed Qazizada
 
 <!--
 **rqkohistani/rqkohistani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 &#10148; [unicode table](https://unicode-table.com/en/27A4/) (2022) Lorem Ipsum is simply dummy text of the printing and typesetting industry.
 https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/dev
+old infos: 
+
 -->
 
 - 🔭 I’m currently working on ASP.NET at Go-Ahead Nordic and World Baton Twirling Federation (WBTF) (Drill)
@@ -25,7 +27,7 @@ https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/dev
 - ⚡ Fun fact: I love hitting the gym to sweat out stress and stay in shape. 🤔
 - &#128073; My[ projects](https://rqkohistani.github.io/)
 
-### Relevant Languages & Frameworks
+<!-- ### Relevant Languages & Frameworks
 
 ![ASP.NET](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/csharp_dotnet.svg)
 ![java](https://user-images.githubusercontent.com/47086798/164975916-ebd0b705-c836-4eb6-b824-e72d21b8e3fc.svg)
@@ -35,9 +37,9 @@ https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/dev
 ![Bootstrap 5 ](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/bootstrap.svg)
 
 ### Working with
-![ASP.NET](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/csharp_dotnet.svg)
-![nodejs](https://user-images.githubusercontent.com/47086798/164975939-e4f6fdc6-9c0e-4ddb-a588-3ea279d52297.svg)
-<!-- ![visualstudio_code](https://user-images.githubusercontent.com/47086798/164975945-2c7d2a62-452c-43f3-881a-391511c2901d.svg)
-![npm](https://user-images.githubusercontent.com/47086798/165321337-653ed928-3eb1-4bfb-9539-654d361fb689.svg)
-![office_365](https://user-images.githubusercontent.com/47086798/165321339-e8e7c347-6632-4f78-82d0-2498624bf30c.svg)
+
+![java](https://user-images.githubusercontent.com/47086798/164975916-ebd0b705-c836-4eb6-b824-e72d21b8e3fc.svg)
+
+![nodejs](https://user-images.githubusercontent.com/47086798/164975939-e4f6fdc6-9c0e-4ddb-a588-3ea279d52297.svg) -->
+
 <!-- https://github.com/MikeCodesDotNET/ColoredBadges -->
