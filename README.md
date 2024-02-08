@@ -19,7 +19,7 @@ old infos:
 
 -->
 
-- 🔭 I’m currently working on ASP.NET at Go-Ahead Nordic and World Baton Twirling Federation (WBTF) (Drill)
+- 🔭 I’m currently working on enhancing Java skills and advancing data structure and algorithms
 - 👨🏽‍🎓 I'm constantly learning new skills and *striving for progress*
 - 🏆 Goal: Be better than yesterday
 - ⚡ Moto: *Maintain your focus on progress rather than perfection.*
