@@ -19,7 +19,8 @@ old infos:
 
 -->
 
-- 🔭 I’m currently working on enhancing Java skills and advancing data structure and algorithms
+<!-- - 🔭 I’m currently working on enhancing Java skills and advancing data structure and algorithms -->
+- 🔭 I’m currently working as a .NET and Oracle DB developer
 - 👨🏽‍🎓 I'm constantly learning new skills and *striving for progress*
 - 🏆 Goal: Be better than yesterday
 - ⚡ Moto: *Maintain your focus on progress rather than perfection.*
