@@ -1,15 +1,12 @@
-<h1 align="center">
-
-# ![Software Engineer typing animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=10&color=00C4FF&center=true&vCenter=true&width=700&lines=Hi+and+Welcome+👋;Hej+och+välkommen+👋;Bonjour+et+bienvenue+👋;👋+سلام+و+خوش+آمدید;مرحباً+وأهلاً+👋;)
-
-</h1>
+# ![Typing intro](https://readme-typing-svg.herokuapp.com?font=Fira+Code&speed=110&pause=0&color=00C4FF&center=true&vCenter=true&width=700&lines=Hi+and+Welcome+👋;Hej+och+välkommen+👋)
+# ![Matrix code](https://readme-typing-svg.herokuapp.com?font=Fira+Code&speed=160&pause=0&color=00FF41&center=true&vCenter=true&width=700&lines=01101001+01001011+01000101+01000001;00101010+11001100+01010101+10011001+00011110)
 
 ---
 
 ## 👨‍💻 About Me  
 
 I am a **Software Engineer** who enjoys solving complex problems and building reliable, scalable systems.  
-My work spans **backend engineering**, **APIs**, **databases**, and **performance optimization**, with experience across industries including **IKEA**, and **Softhouse**.
+My work spans **backend engineering**, **APIs**, **databases**, and **performance optimization**, with experience across industries including **[IKEA of Sweden AB (Inter IKEA Group)](https://www.inter.ikea.com/)**, **[Softhouse.se](https://www.softhouse.se/)**, and **[Framtiden.se](https://www.framtiden.com/)**.
 
 - 🔭 I’m currently working as a .NET and Oracle DB developer
 - ✨ *Always learning. Always improving.*  
