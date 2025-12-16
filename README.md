@@ -21,59 +21,58 @@ My work spans **backend engineering**, **APIs**, **databases**, and **performanc
 - 🎓 BSc in Software Technology + **Certified ScrumMaster® (CSM)**
  -->
 
-
 ---
 
 ## Backend & APIs
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge)
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://github.com/rqkohistani/Backend-Collection)
+[![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)](https://github.com/rqkohistani/Backend-Collection)
+[![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)](https://github.com/rqkohistani/Backend-Collection)
+[![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge)](https://github.com/rqkohistani/Backend-Collection)
 
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express)
-![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
+[![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/rqkohistani/Backend-Collection)
+[![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express)](https://github.com/rqkohistani/Backend-Collection)
+[![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)](https://github.com/rqkohistani/Backend-Collection)
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/rqkohistani/Backend-Collection)
+[![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)](https://github.com/rqkohistani/Backend-Collection)
+[![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger)](https://github.com/rqkohistani/Backend-Collection)
 
 ## Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)](https://github.com/rqkohistani/Backend-Collection)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)](https://github.com/rqkohistani/Backend-Collection)
+[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)](https://github.com/rqkohistani/Backend-Collection)
 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery)
-![AJAX](https://img.shields.io/badge/AJAX-005571?style=for-the-badge)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap)](https://github.com/rqkohistani/Backend-Collection)
+[![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery)](https://github.com/rqkohistani/Backend-Collection)
+[![AJAX](https://img.shields.io/badge/AJAX-005571?style=for-the-badge)](https://github.com/rqkohistani/Backend-Collection)
 
 ## Databases & ORM
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
-![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver)
-![Oracle DB](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle)
-![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)](https://github.com/rqkohistani/Backend-Collection)
+[![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver)](https://github.com/rqkohistani/Backend-Collection)
+[![Oracle DB](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle)](https://github.com/rqkohistani/Backend-Collection)
+[![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge)](https://github.com/rqkohistani/Backend-Collection)
 
-![Prisma ORM](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
-![AutoMapper](https://img.shields.io/badge/AutoMapper-CC0000?style=for-the-badge)
+[![Prisma ORM](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma)](https://github.com/rqkohistani/Backend-Collection)
+[![Entity Framework](https://img.shields.io/badge/Entity_Framework-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)](https://github.com/rqkohistani/Backend-Collection)
+[![AutoMapper](https://img.shields.io/badge/AutoMapper-CC0000?style=for-the-badge)](https://github.com/rqkohistani/Backend-Collection)
 
 ## Testing
 
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest)
-![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha)
+[![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5)](https://github.com/rqkohistani/Backend-Collection)
+[![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest)](https://github.com/rqkohistani/Backend-Collection)
+[![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha)](https://github.com/rqkohistani/Backend-Collection)
 
 ## DevOps & CI/CD
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)](https://github.com/rqkohistani/Backend-Collection)
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github)](https://rqkohistani.github.io/)
+[![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket)](https://github.com/rqkohistani/Backend-Collection)
 
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
-![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift)
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)](https://github.com/rqkohistani/Backend-Collection)
+[![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift)](https://github.com/rqkohistani/Backend-Collection)
 
 ## Tools & Workflow
 
@@ -87,11 +86,11 @@ My work spans **backend engineering**, **APIs**, **databases**, and **performanc
 
 ## Core Computer Science
 
-![OOP](https://img.shields.io/badge/OOP-0A1A2F?style=for-the-badge)
-![Data Structures](https://img.shields.io/badge/Data_Structures-007ACC?style=for-the-badge)
-![Algorithms](https://img.shields.io/badge/Algorithms-00427E?style=for-the-badge)
-![Software Architecture](https://img.shields.io/badge/Software_Architecture-2C3E50?style=for-the-badge)
-![Software Design](https://img.shields.io/badge/Software_Design-34495E?style=for-the-badge)
+[![OOP](https://img.shields.io/badge/OOP-0A1A2F?style=for-the-badge)](https://github.com/rqkohistani/Linnaeus-University-Bachelor-CS)
+[![Data Structures](https://img.shields.io/badge/Data_Structures-007ACC?style=for-the-badge)](https://github.com/rqkohistani/Linnaeus-University-Bachelor-CS)
+[![Algorithms](https://img.shields.io/badge/Algorithms-00427E?style=for-the-badge)](https://github.com/rqkohistani/Linnaeus-University-Bachelor-CS)
+[![Software Architecture](https://img.shields.io/badge/Software_Architecture-2C3E50?style=for-the-badge)](https://github.com/rqkohistani/Linnaeus-University-Bachelor-CS)
+[![Software Design](https://img.shields.io/badge/Software_Design-34495E?style=for-the-badge)](https://github.com/rqkohistani/Linnaeus-University-Bachelor-CS)
 
 ---
 
