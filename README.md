@@ -39,10 +39,10 @@ My work spans **backend engineering**, **APIs**, **databases**, and **performanc
 [![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger)](https://github.com/rqkohistani/Backend-Collection)
 
 ## Frontend
-
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)](https://github.com/rqkohistani/Backend-Collection)
+[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)](https://github.com/rqkohistani/Backend-Collection)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)](https://github.com/rqkohistani/Backend-Collection)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)](https://github.com/rqkohistani/Backend-Collection)
-[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)](https://github.com/rqkohistani/Backend-Collection)
 
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap)](https://github.com/rqkohistani/Backend-Collection)
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery)](https://github.com/rqkohistani/Backend-Collection)
